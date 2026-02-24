@@ -1,6 +1,6 @@
 ## About Me
 
-Hey!! I’m a software engineer with around 3 years of experience building backend systems, mostly in telecom and cloud-based environments. I enjoy working close to the core of systems where reliability, performance, and clean design matter. I’ve spent time building REST APIs, working with distributed services, and solving production issues that require patience and careful thinking.
+Hey!! I’m a software engineer with experience building backend systems, mostly in telecom and cloud-based environments. I enjoy working close to the core of systems where reliability, performance, and clean design matter. I’ve spent time building REST APIs, working with distributed services, and solving production issues that require patience and careful thinking.
 
 I like learning by building. Whether it’s backend services, small tools, or end-to-end projects, I enjoy understanding how things work under the hood. I also spend time practicing problem solving and data structures, not just for interviews, but to write better and more thoughtful code. Always curious, always learning.
 
